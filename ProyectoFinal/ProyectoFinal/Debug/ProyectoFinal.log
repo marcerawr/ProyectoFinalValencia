@@ -1,0 +1,6 @@
+﻿  Proyecto-Final.cpp
+c:\users\marcela\desktop\proyectovalencia\proyectofinal\proyectofinal\proyecto-final.cpp(120): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\marcela\desktop\proyectovalencia\proyectofinal\proyectofinal\proyecto-final.cpp(186): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\marcela\desktop\proyectovalencia\proyectofinal\proyectofinal\proyecto-final.cpp(248): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  ProyectoFinal.vcxproj -> C:\Users\Marcela\Desktop\ProyectoValencia\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.exe
+  ProyectoFinal.vcxproj -> C:\Users\Marcela\Desktop\ProyectoValencia\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.pdb (Full PDB)
